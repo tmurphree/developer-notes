@@ -10,5 +10,9 @@ Developer notes, checklists, and examples. Published as a GitHub Pages site at [
 ## 📋 Checklists
 - [Code Review](checklists/code-review.md)
 
+## 📚 Document templates
+
+- [Jira Notes](document-templates/jira-notes.md)
+
 ## 🛠️ Technical Examples
-👷 Coming soon...
+- [Fast Lookup](examples/ fast-lookup.md)

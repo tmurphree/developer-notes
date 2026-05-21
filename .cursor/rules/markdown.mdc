@@ -26,3 +26,4 @@ title: Page Title Here
 ```
 
 - Never leave a blank line between a heading and the first line of content
+    - Exception: for document-templates/**/*.md files, blank lines are allowed between headings and the first line of content
