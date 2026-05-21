@@ -15,4 +15,4 @@ Developer notes, checklists, and examples. Published as a GitHub Pages site at [
 - [Jira Notes](document-templates/jira-notes.md)
 
 ## 🛠️ Technical Examples
-- [Fast Lookup](examples/ fast-lookup.md)
+- [Fast Lookup](examples/fast-lookup.md)
