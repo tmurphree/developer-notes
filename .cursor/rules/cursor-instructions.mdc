@@ -1,0 +1,7 @@
+---
+description: "Instructions for editing Cursor rules"
+globs: "**/*.mdc"
+alwaysApply: false
+---
+
+- Never end a sentence with punctuation

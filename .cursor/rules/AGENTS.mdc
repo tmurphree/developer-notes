@@ -1,0 +1,8 @@
+---
+description: "Global rules for all files in the project"
+alwaysApply: true
+---
+
+# Formatting
+- 4 spaces for indentation
+- 2 spaces after punctuation that ends a sentence in narrative text and comments

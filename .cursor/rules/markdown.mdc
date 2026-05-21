@@ -1,0 +1,22 @@
+---
+description: "Rules for markdown files"
+globs: "**/*.md"
+---
+
+# Frontmatter
+- Always include frontmatter in the following format so that the site is published correctly:
+```yaml
+---
+layout: default
+title: Page Title Here
+---
+```
+
+## Frontmatter exceptions
+- README.md: No frontmatter needed
+
+## Title guidance
+<title> is a placeholder.  Use the page’s main # heading or a short human-readable page name
+
+# Formatting
+- Never leave a blank line between a heading and the first line of content
