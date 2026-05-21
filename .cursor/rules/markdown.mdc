@@ -19,4 +19,10 @@ title: Page Title Here
 <title> is a placeholder.  Use the page’s main # heading or a short human-readable page name
 
 # Formatting
+- Use simple hyphens for lists.  E.g.:
+```markdown
+- Item 1
+- Item 2
+```
+
 - Never leave a blank line between a heading and the first line of content
