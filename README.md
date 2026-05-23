@@ -4,6 +4,9 @@ Developer notes, checklists, and examples.  Published at [https://tmurphree.gith
 
 Site content lives in [index.md](index.md).
 
+# Deploying a new branch in GitHub Pages
+Go to [this link](https://github.com/tmurphree/developer-notes/settings/pages) and select the branch you want to deploy.
+
 ## Cursor Agent
 
 This repo includes Cursor configuration under `.cursor/` for consistent markdown and checklist reviews.
