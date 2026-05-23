@@ -3,6 +3,7 @@ layout: default
 title: Jira Notes template
 ---
 
+```markdown
 # Red flags
 
 # Scope change tracker
@@ -21,3 +22,4 @@ title: Jira Notes template
 # Connections
 
 # Questions
+```
